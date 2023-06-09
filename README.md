@@ -1,4 +1,3 @@
-### Hi there 👋
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nagi-jp&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nagi-jp&theme=2077)
